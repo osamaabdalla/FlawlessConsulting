@@ -1,4 +1,4 @@
-# FlawlessConsulting course
+# Flawless Consulting Course
 
 The course provides knowledge and effective skills that are required in research, consultancy and professional practice. For the research section, it cover literature review, development of research questions, usage of theories, research design, data collection as well as related analysis techniques.
 
